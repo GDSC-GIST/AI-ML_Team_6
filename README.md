@@ -12,3 +12,5 @@
   4. 11/20(토) 21:00
 
 * 소통 매체 : 카카오톡 
+
+* Lecture Link : kaaggle[https://www.kaggle.com/getting-started/71679]
