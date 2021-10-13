@@ -13,4 +13,4 @@
 
 * 소통 매체 : 카카오톡 
 
-* Lecture Link : kaaggle[https://www.kaggle.com/getting-started/71679]
+* Lecture Link : https://www.kaggle.com/getting-started/71679
